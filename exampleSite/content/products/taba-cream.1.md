@@ -1,10 +1,10 @@
 ---
-title: "IMPERIUM MODEL (LIMITED SPECIAL SERIES)"
+title: "Imperium Model"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "IMPERIUM MODEL ( LIMITED SPECIAL SERIES )"
+description : "Limited Series"
 
 # product Price
 price: "300.00"
