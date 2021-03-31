@@ -26,7 +26,6 @@ images:
   - image: "images/products/product-3.2.webp"
   - image: "images/products/product-3.3.webp"
   - image: "images/products/product-3.4.webp"
-  - image: "images/products/product-3.5.webp"
 ---
 
 High quality genuine cowhide leather jackets, resistant to abrasions and temperatures, specially designed for motorcyclists, removable protections for regular use.
